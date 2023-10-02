@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning JS and React.
 - 🤔 I’m looking for help with possible traineeship and junior positions. 
-- ⚡ Fun fact: I am not allergic to stray cats, on the other hand domestic ones might ruin me 💀
+- ⚡ Fun fact: There is no fun fact about me. 💀
 
 
 ## 🌐 Socials:
