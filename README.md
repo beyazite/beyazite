@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning JS and React.
 - 🤔 I’m looking for help with possible traineeship and junior positions. 
-- ⚡ Fun fact: There is no fun fact about me. 💀
-
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enis-beyazit) 
